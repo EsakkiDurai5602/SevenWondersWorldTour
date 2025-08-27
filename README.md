@@ -25,4 +25,4 @@ It showcases each wonder with engaging visuals, descriptions, and a simple, resp
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/EsakkiDurai5600/SevenWondersWorldTourProject.git
+   git clone https://github.com/EsakkiDurai5602/SevenWondersWorldTourProject.git
